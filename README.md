@@ -1,1 +1,1 @@
-[![](https://github.com/neeerajtk/neeerajtk/master/newscore.gif)](#)
+[![](https://github.com/neeerajtk/neeerajtk/blob/main/newscore.gif)](#)
